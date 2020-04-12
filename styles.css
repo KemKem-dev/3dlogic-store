@@ -497,6 +497,7 @@ form textarea {
     }
     .container {
         width: 100%;
+        overflow-x: hidden;
     }
     #slider {
         z-index: -1;
