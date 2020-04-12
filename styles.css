@@ -99,19 +99,19 @@ nav ul li a:hover {
 }
 
 .slide1 {
-    background-image: url('https://res.cloudinary.com/kemkem-dev/image/upload/v1586695328/man1_jepfgf.jpg');
+    background-image: url('man11.jpg');
 }
 
 .slide2 {
-    background-image: url('https://res.cloudinary.com/kemkem-dev/image/upload/v1586695240/woman2_v3zmdx.jpg');
+    background-image: url('woman22.jpg');
 }
 
 .slide3 {
-    background-image: url('https://res.cloudinary.com/kemkem-dev/image/upload/v1586695279/bag1_qundsu.jpg');
+    background-image: url('bag11.jpg');
 }
 
 .slide4 {
-    background-image: url('https://res.cloudinary.com/kemkem-dev/image/upload/v1586695434/shoe2_irxlzf.jpg');
+    background-image: url('shoe22.jpg');
 }
 
 .slide-content {
