@@ -485,6 +485,7 @@ form textarea {
     }
     nav ul li a {
         font-size: 45px;
+        color:#333
     }
     .active,
     nav ul li a:hover {
@@ -496,7 +497,6 @@ form textarea {
     }
     .container {
         width: 100%;
-        overflow: hidden;
     }
     #slider {
         z-index: -1;
