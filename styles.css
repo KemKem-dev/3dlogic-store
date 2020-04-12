@@ -497,7 +497,7 @@ form textarea {
     }
     .container {
         width: 100%;
-        overflow-x: hidden;
+        overflow: hidden;
     }
     #slider {
         z-index: -1;
@@ -530,7 +530,7 @@ form textarea {
         grid-template-columns: 1fr;
         grid-row: 1;
         width: 100%;
-        margin-right: 1rem
+        
     }
     .brands-collection h2 {
         text-align: center;
@@ -551,7 +551,7 @@ form textarea {
         grid-template-columns: 1fr;
         grid-row: 1;
         width: 100%;
-        margin-right: 1rem
+ 
     }
     .popular-products i {
         font-size: 1.3rem;
