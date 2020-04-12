@@ -507,7 +507,7 @@ form textarea {
     .slide1 {
         width: 100%;
         height: auto;
-        overflow: hidden;
+        overflow-x: hidden;
     }
     .arrow {
         position: absolute;
