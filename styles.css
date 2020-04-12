@@ -475,7 +475,7 @@ form textarea {
         top: 80px;
         left: -100%;
         text-align: center;
-        transition: all .5s;
+        transition: all 4s;
         z-index: 99;
     }
     nav ul li {
@@ -509,7 +509,7 @@ form textarea {
     }
     .arrow {
         position: absolute;
-        top: 20%;
+        top: 25%;
         margin-top: -35px;
         font-size: 1.8rem;
         color: #f2f2f2;
@@ -552,6 +552,9 @@ form textarea {
         font-size: 1.3rem;
         margin-left: 0.5rem;
     }
+    .popular-products h3 {
+        margin-top: 10px;
+    }
     .pricing {
         margin-right: 0.6rem;
     }
@@ -572,6 +575,9 @@ form textarea {
         margin-top: 20px;
         margin-bottom: 20px;
     }
+    footer {
+        margin-top: 20px;
+    }
     .box h2 {
         font-size: 1.3rem;
     }
@@ -585,5 +591,12 @@ form textarea {
     }
     .main-content .box {
         margin: 5px 0;
+    }
+    .form-btn {
+        display: block;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        font-size: 1.2rem;
     }
 }
