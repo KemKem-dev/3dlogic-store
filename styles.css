@@ -252,9 +252,14 @@ img:hover {
 .popular-products i {
     font-size: 1.2rem;
     margin-left: 0.8rem;
+    color: #ffd700
 }
 
 #rating {
+    color: #ffd700;
+}
+
+#star-rate {
     color: #ffd700;
 }
 
