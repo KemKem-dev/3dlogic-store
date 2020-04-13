@@ -215,7 +215,7 @@ nav ul li a:hover {
 
 .btn:hover {
     background: #f2f2f2;
-    color: #000;
+    color: #333;
     transition: all 3s ease;
 }
 
@@ -252,6 +252,10 @@ img:hover {
 .popular-products i {
     font-size: 1.2rem;
     margin-left: 0.8rem;
+}
+
+#rating {
+    color: #ffd700;
 }
 
 footer {
@@ -561,6 +565,7 @@ form textarea {
     }
     .pricing {
         margin-right: 0.6rem;
+        font-weight: bolder;
     }
     .slide-content {
         padding: 12rem;
