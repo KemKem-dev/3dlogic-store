@@ -58,7 +58,7 @@ nav ul li a {
 }
 
 .active {
-    color: #00ff99;
+    color: #bdb76b;
     transition: .5s
 }
 
@@ -471,7 +471,7 @@ form textarea {
         position: fixed;
         width: 100%;
         height: 100vh;
-        background: #00fa9a;
+        background: #008080;
         top: 80px;
         left: -100%;
         text-align: center;
