@@ -58,7 +58,7 @@ nav ul li a {
 }
 
 .active {
-    color: #bdb76b;
+    color: #ffd700;
     transition: .5s
 }
 
@@ -494,7 +494,7 @@ form textarea {
     .active,
     nav ul li a:hover {
         background: none;
-        color: var(--primary-color);
+        color: #ffd700;
     }
     #check:checked~ul {
         left: 0;
