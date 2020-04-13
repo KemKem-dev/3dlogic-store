@@ -198,8 +198,8 @@ nav ul li a:hover {
 
 .btn {
     display: inline-block;
-    background: #f2f2f2;
-    color: #000;
+    background: #008080;
+    color: #fff;
     text-align: center;
     padding: 1.1rem 1rem;
     font-size: 1rem;
@@ -209,13 +209,13 @@ nav ul li a:hover {
     margin-right: 0.5rem;
     outline: none;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.45);
-    border-radius: 2px;
+    border-radius: 5px;
     text-decoration: none;
 }
 
 .btn:hover {
-    background: #000;
-    color: #fff;
+    background: #f2f2f2;
+    color: #000;
     transition: all 3s ease;
 }
 
@@ -575,7 +575,7 @@ form textarea {
         align-items: center;
         align-self: center;
         font-size: 1.2rem;
-        padding: 1.2rem 1.2rem;
+        padding: 1.3rem 1.2rem;
         margin-top: 20px;
         margin-bottom: 20px;
     }
